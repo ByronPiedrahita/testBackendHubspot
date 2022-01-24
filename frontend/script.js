@@ -87,7 +87,7 @@ function update (id) {
     console.log(registrationJson)
     console.log(id)
     fetch(`http://localhost:8080/user/${id}`,{
-        method: 'no-cors',
+        method: 'patch',
         body: registrationJson
     })
     setTimeout(()=>{
