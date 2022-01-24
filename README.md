@@ -63,10 +63,10 @@
 - There are problems in the frontend to refresh the page
 
 🖐️: Endpoints can be tested locally with ``` Insomnia ``` or ``` Postman ```
-##### List User  GET ``` http://localhost:8080/user ```
-#### Create User POST ``` http://localhost:8080/user ```
-#### Delete USer DELETE ``` http://localhost:8080/user ```
-#### Update User PATCH ``` http://localhost:8080/user ```
+- List User  GET ``` http://localhost:8080/user ```
+- Create User POST ``` http://localhost:8080/user ```
+- Delete USer DELETE ``` http://localhost:8080/user ```
+- Update User PATCH ``` http://localhost:8080/user ```
 
 ---
 ⭐️ From [ByronPiedrahita](https://github.com/ByronPiedrahita)
