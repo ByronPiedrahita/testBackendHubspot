@@ -59,6 +59,8 @@
 - Pressing on each of the ``` ACTUALIZAR ``` buttons will switch focus to the form and allow update the registered user data
 
 🖐️: There was a bug when updating the user, identified with the patch method cors, so it was changed by PUT but it generates a duplicate of the updated user
+- Data validations were not created
+- There are problems in the frontend to refresh the page
 
 ---
 ⭐️ From [ByronPiedrahita](https://github.com/ByronPiedrahita)
