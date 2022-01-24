@@ -49,6 +49,7 @@
 - Clone the GitHub repository
 - Open a command terminal
 - Enter the backend folder ``` cd backend ```
+- Install the necessary libraries ``` npm install ```
 - Run the command ``` yarn dev ```  or ``` npm run node src/server.js ```
 - Run the file ``` index.html ``` found in the frontend folder with the browser
 - A list with the users saved in the table ```developer_test_5``` will be displayed
@@ -57,7 +58,7 @@
 - Pressing on each of the ``` ELIMINAR ``` buttons will delete the registered user
 - Pressing on each of the ``` ACTUALIZAR ``` buttons will switch focus to the form and allow update the registered user data
 
-:alert:
+🖐️: There was a bug when updating the user, identified with the patch method cors, so it was changed by PUT but it generates a duplicate of the updated user
 
 ---
 ⭐️ From [ByronPiedrahita](https://github.com/ByronPiedrahita)
