@@ -45,7 +45,9 @@
 
 ## Instructions
 
-:computer: ## 1) ``` npm i
+:computer: - Clone the GitHub repository
+           - Enter the backend folder ``` cd backend ```
+           - Open a command terminal
 
 ---
 ⭐️ From [ByronPiedrahita](https://github.com/ByronPiedrahita)
