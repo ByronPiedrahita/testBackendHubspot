@@ -22,8 +22,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <span>Hupspot</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/hubspot.svg">
       </td>
     </tr>
   </tbody>
