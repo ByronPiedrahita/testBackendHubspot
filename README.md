@@ -47,8 +47,9 @@
 
 :computer: 
 - Clone the GitHub repository
-- Enter the backend folder ``` cd backend ```
 - Open a command terminal
+- Enter the backend folder ``` cd backend ```
+- Run the command ``` yarn dev ```  or ``` cd backend ```
 
 ---
 ⭐️ From [ByronPiedrahita](https://github.com/ByronPiedrahita)
