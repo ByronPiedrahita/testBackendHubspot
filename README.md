@@ -45,5 +45,7 @@
 
 ## Instructions
 
+:computer: ###1 npm i
+
 ---
 ⭐️ From [ByronPiedrahita](https://github.com/ByronPiedrahita)
