@@ -2,7 +2,7 @@
 
 𝑰 ❤️ Back𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:This: It is a technical test for Backend where an API connected to Hubspot is created using its own methods and can be tested with a basic light frontend layer.
+:writing_hand: It is a technical test for Backend where an API connected to Hubspot is created using its own methods and can be tested with a basic light frontend layer.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
